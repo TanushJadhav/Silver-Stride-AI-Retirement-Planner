@@ -41,6 +41,12 @@ Click on the "i" button on the top right to learn more about Spending Score Cate
 ### Dashboard Tab
 View graphical representations of the analyzed data for various professions and age groups.
 
+### Income Management
+Contains youtube links of two income management videos.
+
+### Investment Guidance
+Contains youtube videos of two youtuber helping with investments in retirement.
+
 ### Future Tabs (Under Development)
 - **Income Management**
 - **Investment Guidance**
