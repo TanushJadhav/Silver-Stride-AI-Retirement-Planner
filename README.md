@@ -20,7 +20,7 @@ Welcome to Silver Stride AI, your AI-driven financial companion for retirement p
 3. Open your web browser by clicking the link generate in the terminal.
 
 4. Log in with the credentials:
-   - Currently the credentials are store in the flask file, the credentials can be handled in a more dafe and secure manner.
+   - Currently the credentials are store in the flask file, the credentials can be handled in a more safe and secure manner.
 
 ## Usage
 
